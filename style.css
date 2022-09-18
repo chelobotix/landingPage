@@ -1,3 +1,95 @@
 body {
-  background-color: blue;
+}
+
+.logo {
+  width: 150px;
+}
+
+input[type="submit"] {
+  background-color: #f9b104;
+  padding: 10px;
+  width: 200px;
+  margin: auto;
+  margin-top: 10px;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: #000000;
+  font-size: 17px;
+  padding: 30px;
+}
+nav {
+  padding: 50px;
+}
+
+.container1 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.container2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.containerMain1 {
+  display: flex;
+  justify-content: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+.container3 {
+  display: flex;
+  flex-direction: column;
+}
+
+.icon1 {
+  width: 150px;
+}
+
+.container4 {
+  display: flex;
+  padding: 50px;
+}
+.container5 {
+  display: flex;
+  flex-direction: column;
+  padding-left: 50px;
+}
+
+.subtitle {
+  font-size: 30px;
+}
+
+.btn1 {
+  background-color: #f9b104;
+  padding: 10px;
+  width: 200px;
+  margin: auto;
+  margin-top: 10px;
+}
+
+.priceTitle {
+  background-color: #dddddd;
+  padding: 20px;
+}
+
+h4 {
+  font-size: 20px;
+  margin: auto;
+}
+
+li {
+  list-style-type: none;
+}
+.priceDiv {
+  border: 2px solid #000000;
+  margin: 10px;
+  padding-left: 0;
 }
